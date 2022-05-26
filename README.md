@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hammad Rustam
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on different projects related to machine learning.
 - 📫 How to reach me: hammadkhanniazi29@gmail.com
